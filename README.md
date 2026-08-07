@@ -26,7 +26,7 @@ Liver/tumor/Couinaud segmentation code is released under my lab's organization, 
 
 - [Deep Learning-Based Liver Tumor Segmentation from Computed Tomography Scans with a Gradient-Enhanced Network](https://www.mdpi.com/2075-4418/16/3/429), **Diagnostics**, 2026 — [code](https://github.com/AI-Medical-Vision/GUNETR_pplus_Tumor)
 - [Automatic liver Couinaud segmentation from computed tomography scans with a gradient-enhanced hierarchical cascade deep learning network](https://www.sciencedirect.com/science/article/pii/S0011384025002394), **Current Problems in Surgery**, 2025 — [code](https://github.com/AI-Medical-Vision/GUNETR_pplus_MSD_Couinaud)
-- *Multi-Label Facial Emotion Classification by Efficient Network from Korean Drama Video Clips*, **IEEE**, 2025 — [code](https://github.com/jamesksh0130/korean-drama-facial-emotion)
+- [Multi-Label Facial Emotion Classification by Efficient Network from Korean Drama Video Clips](https://ieeexplore.ieee.org/document/11149907), **IEEE AVSS**, 2025 — [code](https://github.com/jamesksh0130/korean-drama-facial-emotion)
 - *Early Tip-Burn Diagnosis Using AI-Driven Integrated Object Detection and Classification*, **ICCT**, 2025 — [code](https://github.com/jamesksh0130/tipburn-detection)
 - [UNETR++: A Gradient-Enhanced Network for Accurate and Robust Liver Segmentation from Computed Tomography Images](https://www.mdpi.com/2076-3417/15/2/837), **Applied Sciences**, 2025 — [code](https://github.com/AI-Medical-Vision/GUNETR_pplus_LiTS)
 

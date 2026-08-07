@@ -8,7 +8,7 @@ I work on deep learning for medical imaging and vision problems, and I like taki
 - 🧬 Visiting researcher, **University of Nevada, Las Vegas** — protein function (EC number) prediction from sequence + structure
 - 🧑‍💻 Founder, **EGO STUDIO** — facial-expression-based emotional interaction
 - 🧍 Research intern, **Comfo Labs, Inc.** — K-SMPL, a Korean population-specific SMPL-compatible 3D body shape model (ACCV 2026 submission)
-- 📝 Built an AI multi-agent academic paper reviewer, and co-organized my university's first AI Native Camp (196 participants, NPS 9.5)
+- 📝 Built an AI multi-agent academic paper reviewer, and co-organized my university's first [AI Native Camp](https://lnkd.in/gTNsxeY4) (196 participants, NPS 9.5)
 
 #### Featured projects
 

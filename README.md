@@ -18,8 +18,9 @@ I work on deep learning for medical imaging and vision problems, and I like taki
 | [korean-drama-facial-emotion](https://github.com/jamesksh0130/korean-drama-facial-emotion) | Multi-label facial emotion classification (EfficientNetV2/ResNet/MobileNetV3) on Korean drama video clips |
 | [tipburn-detection](https://github.com/jamesksh0130/tipburn-detection) | YOLO + ResNet50 Streamlit app for early tip-burn diagnosis in smart-farm lettuce cultivation (with MIDBAR) |
 | [llm-ethics-solver](https://github.com/jamesksh0130/llm-ethics-solver) | RAG app (LangChain + ChromaDB + Azure OpenAI) that answers and explains Korean CSAT Life and Ethics exam questions |
+| [contact-ec](https://github.com/jamesksh0130/contact-ec) | Sequence-structure fusion (ESM-2 + contact-map) for hierarchical Enzyme Commission number prediction |
 
-Liver/tumor/Couinaud segmentation code is released under my lab's organization, [AI-Medical-Vision](https://github.com/AI-Medical-Vision) (see Publications below). More research code (protein function prediction, facial expression recognition, K-SMPL body model) is being cleaned up for release alongside their manuscripts.
+Liver/tumor/Couinaud segmentation code is released under my lab's organization, [AI-Medical-Vision](https://github.com/AI-Medical-Vision) (see Publications below). More research code (facial expression recognition, K-SMPL body model) is being cleaned up for release alongside their manuscripts.
 
 #### Publications
 
